@@ -39,7 +39,7 @@ Greenfield is a Claude Code plugin for the **planning phase** of new software pr
 5. **Adversarially reviews** the plan with security and QA specialists
 6. **Scaffolds** a production-grade reference application with IaC, CI/CD, observability, compliance baseline, and design tokens already wired in
 
-After the first commit, Greenfield's job is done. The project is now brownfield, and you switch to your normal feature workflow (e.g., the Rival plugin or any feature-level loop).
+After the first commit, Greenfield's job is done. The project is now brownfield, and you switch to your normal feature workflow (e.g., the brownfield plugin or any feature-level loop).
 
 **The 9 agents in one line each:**
 
