@@ -14,7 +14,7 @@
         "repo": "muhammadut/greenfield-plugin"
       },
       "description": "9-agent planning plugin. Interviews you, runs parallel specialist research, reconciles into ADRs/C4/threat model, and scaffolds a compliance-ready reference app with IaC, CI/CD, observability, and design system baked in. Hand off to feature-level workflow once first commit exists.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "license": "MIT",
       "keywords": [
         "greenfield",

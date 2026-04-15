@@ -1,0 +1,6 @@
+{
+  "name": "greenfield-plugin",
+  "version": "0.2.0",
+  "description": "Greenfield project initialization plugin: interview, research, architect, and scaffold new projects.",
+  "license": "MIT"
+}
